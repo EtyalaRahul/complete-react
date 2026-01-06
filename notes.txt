@@ -1,0 +1,8 @@
+what is the babel ? 
+It is a java script compiler translates other languages into js 
+(It converts enhanced version of java script into java script) 
+
+
+creating a website feels natural 
+jsx lets us find errors easily 
+we can insert values inside jsx elements 
